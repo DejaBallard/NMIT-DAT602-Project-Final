@@ -1,0 +1,14 @@
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\bin\Debug\GuessTheKiller.exe.config
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\bin\Debug\GuessTheKiller.exe
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\bin\Debug\GuessTheKiller.pdb
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.csprojResolveAssemblyReference.cache
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.FrmLogin.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.Properties.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.csproj.GenerateResource.Cache
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.exe
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.pdb
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.FrmHub.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.FrmGame.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.FrmAdmin.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.FrmPlayer.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKiller\obj\Debug\GuessTheKiller.csproj.CoreCompileInputs.cache

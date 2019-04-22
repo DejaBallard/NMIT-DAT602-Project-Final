@@ -1,0 +1,14 @@
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\bin\Debug\GuessTheKillerV3.exe.config
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\bin\Debug\GuessTheKillerV3.exe
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\bin\Debug\GuessTheKillerV3.pdb
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKillerV3.csprojResolveAssemblyReference.cache
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKiller.FrmAdmin.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKiller.FrmGame.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKiller.FrmHub.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKiller.FrmLogin.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKiller.FrmPlayer.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKillerV3.Properties.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKillerV3.csproj.GenerateResource.cache
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKillerV3.csproj.CoreCompileInputs.cache
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKillerV3.exe
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV3\obj\Debug\GuessTheKillerV3.pdb

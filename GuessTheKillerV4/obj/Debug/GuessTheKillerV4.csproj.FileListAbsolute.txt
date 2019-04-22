@@ -1,0 +1,14 @@
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKiller.FrmAdmin.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKiller.FrmGame.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKiller.FrmHub.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKiller.FrmLogin.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKiller.FrmPlayer.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKillerV4.Properties.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKillerV4.csproj.GenerateResource.cache
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKillerV4.csproj.CoreCompileInputs.cache
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\bin\Debug\GuessTheKillerV4.exe.config
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\bin\Debug\GuessTheKillerV4.exe
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\bin\Debug\GuessTheKillerV4.pdb
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKillerV4.exe
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKillerV4.pdb
+C:\Users\deja9\OneDrive\BiT files\Year Two\Semester 3\DAT602\Game App\GuessTheKiller\GuessTheKillerV4\obj\Debug\GuessTheKillerV4.csprojAssemblyReference.cache
